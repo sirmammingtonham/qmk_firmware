@@ -11,6 +11,8 @@
 
 // #define MUSIC_MASK (keycode != KC_NO)
 
+#define RGBLIGHT_SLEEP  // im a big boy now, dont need a night light
+
 /*
  * MIDI options
  */
